@@ -1,5 +1,6 @@
 package com.wecp.progressive.service.impl;
 
-public class InsuranceServiceImpl  {
+public class InsuranceServiceImpl  
+{
 
 }
